@@ -6,7 +6,7 @@
 
 📸 Project Snapshot: Swipe through to see screenshots of the AI Blog Generation System interface!
 
-<div align="center"> <img src="https://github.com/MANAS8991/ai_chanakya_cahatbot.github.io/blob/main/Screenshot%20(125).png"> </div>
+<div align="center"> <img src="https://github.com/MANAS8991/ai_blog_bot.github.io/blob/main/Screenshot%20(126).png"> </div>
 
 This innovative system leverages natural language processing and AI technology to generate blog content autonomously. Users can interact with the system via voice or text input, requesting blog posts on specific topics.
 
